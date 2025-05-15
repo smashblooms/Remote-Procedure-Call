@@ -1,0 +1,19 @@
+{
+  "name": "remote-procedure-call",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smashblooms/Remote-Procedure-Call.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smashblooms/Remote-Procedure-Call/issues"
+  },
+  "homepage": "https://github.com/smashblooms/Remote-Procedure-Call#readme"
+}
